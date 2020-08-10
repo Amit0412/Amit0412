@@ -32,4 +32,4 @@ Here are some ideas to get you started:
 
 [![Amit's github stats](https://github-readme-stats.vercel.app/api?username=Amit0412)](https://github.com/Amit0412/github-readme-stats)
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Amit0412)](https://github.com/Amit0412/github-readme-stats)
