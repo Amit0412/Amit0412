@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning .REACTJS..
 - 👯 I’m looking to collaborate on SQL stuff and Front end....
 - 🤔 I’m looking for help with ..Techie guy.
-- 💬 Ask me about MYSQL,Database,Html,CSS,Bootstrap,JQUERY,C,C++
+- 💬 Ask me about MYSQL,Database,Html,CSS,Bootstrap,JQUERY,C,C++,AJAX,JSON
 - 📫 How to reach me: linkedln and twitter...
 - 😄 Pronouns: .amity..
 - ⚡ Fun fact: ...I have great interest inncurrent affairs.
