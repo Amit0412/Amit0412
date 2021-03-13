@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: .amity..
 - ⚡ Fun fact: ...I have great interest inncurrent affairs.
 --> 🔭 I’m currently working on .Front End Development..
-- 🌱 I’m currently learning .REACTJS..
+- 🌱 I’m currently learning .XML/XSLT/XQUERY..
 - 👯 I’m looking to collaborate on SQL stuff and Front end....
 - 🤔 I’m looking for help with ..Techie guy.
 - 💬 Ask me about MYSQL,Database,Html,CSS,Bootstrap,JQUERY,C,C++,AJAX,JSON
