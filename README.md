@@ -1,6 +1,6 @@
 ### Hi there 👋 I am Amit
 
-<!--
+
 **Amit0412/Amit0412** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
