@@ -1,8 +1,6 @@
 ### Hi there 👋 I am Amit
 
 
-**Amit0412/Amit0412** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 
 <a href="https://quine.sh/profile/Amit0412"><img src="https://stats.quine.sh/Amit0412/web3" alt="Amit0412's Web3 activity" width="380px"></a>
 
