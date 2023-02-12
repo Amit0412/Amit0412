@@ -43,6 +43,9 @@ Here are some ideas to get you started:
 
 [![Amit's github stats](https://github-readme-stats.vercel.app/api?username=Amit0412)](https://github.com/Amit0412/github-readme-stats)
 
+ ### 🏆GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Amit0412&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Amit0412)](https://github.com/Amit0412/github-readme-stats)
 
 <a href="https://quine.sh/profile/Amit0412"><img src="https://stats.quine.sh/Amit0412/github" alt="Amit0412's GitHub stats" width="840px"></a>
