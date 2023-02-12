@@ -24,6 +24,8 @@ Here are some ideas to get you started:
 
 <a href="https://quine.sh/profile/Amit0412"><img src="https://stats.quine.sh/Amit0412/web3" alt="Amit0412's Web3 activity" width="380px"></a>
 
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Amit0412&theme=tokyonight)  
+
 **Languages and Tools:**  
 
 
