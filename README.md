@@ -3,24 +3,6 @@
 <!--
 **Amit0412/Amit0412** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on .Data Visual and Data Analytics..
-- 🌱 I’m currently learning .Javascript..
-- 👯 I’m looking to collaborate on SQL stuff....
-- 🤔 I’m looking for help with ..Techie guy.
-- 💬 Ask me about SQL,Oracle sql,Tableau,Database
-- 📫 How to reach me: linkedln and twitter...
-- 😄 Pronouns: .amity..
-- ⚡ Fun fact: ...I have great interest inncurrent affairs.
---> 🔭 I’m currently working on .Front End Development..
-- 🌱 I’m currently learning .XML/XSLT/XQUERY..
-- 👯 I’m looking to collaborate on SQL stuff and Front end....
-- 🤔 I’m looking for help with ..Techie guy.
-- 💬 Ask me about MYSQL,Database,Html,CSS,Bootstrap,JQUERY,C,C++,AJAX,JSON
-- 📫 How to reach me: linkedln and twitter...
-- 😄 Pronouns: .amity..
-- ⚡ Fun fact: ...I have great interest inncurrent affairs.
 
 <a href="https://quine.sh/profile/Amit0412"><img src="https://stats.quine.sh/Amit0412/web3" alt="Amit0412's Web3 activity" width="380px"></a>
 
